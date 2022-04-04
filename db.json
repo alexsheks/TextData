@@ -2,49 +2,13 @@
       "posts" : 
       [
         {
-          "context": "kjhkghhgjkh",
-          "score": "0.5",
-          "answer": [
-                {
-                "first" : "2",
-                "second" : "3"
-                }
-          ]
+              "query": "What is reaping system?",
+          "context": "The rules of the Hunger Games are simple. In punishment for the uprising, each of the twelve districts must provide one girl and one boy, called tributes, to participate. The twenty-four tributes will be imprisoned in a vast outdoor arena that could hold anything from a burning desert to a frozen wasteland. Over a period of several weeks, the competitors must fight to the death. The last tribute standing wins.",
+          "answer":"There are twelve districts in the Republic of Panem. Each district has one girl and one boy, called tributes. The tributes compete in the Hunger Games, where they fight to the death in an outdoor arena. The last tribute standing wins.",
+              "confidence": "0.5",
+          "highlight": [{"start": 17, "end": 22}, {"start": 24, "end": 28}]
         },
-        {
-          "context": "kjsdhohd kjcnx lckjv vllv xkjc cj jc ",
-          "score": "0.6",
-          "answer": "xkjc"
-        },
-        {
-          "context": "kjsdhohd kjcnx lckjv vllv xkjc cj jc ",
-          "score": "0.6",
-          "answer": "lckjv vllv"
-        },
-        {
-          "context": "kjsdhohd kjcnx lckjv vllv xkjc cj jc ",
-          "score": "0.6",
-          "answer": "lckjv vllv"
-        },
-        {
-          "context": "kjsdhohd kjcnx lckjv vllv xkjc cj jc ",
-          "score": "0.6",
-          "answer": "kjcnx lckjv vllv"
-        },
-        {
-          "context": "kjsdhohd kjcnx lckjv vllv xkjc cj jc ",
-          "score": "0.6",
-          "answer": "kjcnx lckjv vllv"
-        },
-        {
-          "context": "kjsdhohd kjcnx lckjv vllv xkjc cj jc ",
-          "score": "0.6",
-          "answer": "kjcnx lckjv vllv"
-        },
-        {
-          "context": "kjsdhohd kjcnx lckjv vllv xkjc cj jc ",
-          "score": "0.6",
-          "answer": "kjcnx lckjv vllv"
-        }
+       
+        
       ]
 }
